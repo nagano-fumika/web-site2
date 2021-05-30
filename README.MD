@@ -1,40 +1,16 @@
-# 第２回教材について
+# 第２回教材の雛形Zipファイル
 ## 概要
-タイトル：第２回教材のドキュメント
+第２回教材『コーポレートサイト作成』の為の雛形です。
+こちらのZipファイルをご自身のPCにインストールしてから学習を開始して下さい。
 
-ブランチの役割：
-main : 完成コード
-starter : ハンズオン教材の雛形(Zipファイルをインストールしてもらう。)
+### Zipファイルのインストール手順
+1. ``Code`` ボタンをクリックして下さい。
+2. 選択画面の一番下にある ``Download ZIP`` をクリックして下さい。
+3. インストールしたZipファイルを解凍して、雛形フォルダをデスクトップに移動させて下さい。
 
-### 確認URL
-| ブランチ名 | URL |
-|----------------|--------|
-| main | github pages の URL |
-
-### Zip インストール
-| ブランチ名 | インストール方法 |
-|----------------|--------|
-| starter | アクションボタンをクリックして、インストール |
-
-## ファイル構造
-```bash
-corporate-site /
-  |
- ├ css /
-  |  ├ reset.css
-  |  └ style.css
-  |
- ├ images /
-  |  ├ dev-system.jpg  //  システム開発 (事業内容セクション)
-  |  ├ digital-marketing.jpg  //  ソフトウェア開発 (事業内容セクション)
-  |  ├ first-view.jpg  //  トップページ
-  |  ├ manage-system.jpg  //  システム運用・保守 (事業内容セクション)
-  |  └ server.jpg  //  インフラ基盤設計 (事業内容セクション)
-  |
- └ index.html  // ルート
-```
+## 教材URL
+第２回教材URL : https://if-tech.gitbook.io/web/kportosaito/kportosaitonitsuite
 
 ## 技術スタック
 - HTML
 - CSS
-- JavaScript
